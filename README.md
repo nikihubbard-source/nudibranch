@@ -32,6 +32,6 @@ scale_fill_manual(values = nudibranch_palette("elysia", n=4)[c(3, 4, 1)])+
 
 ## Palettes
 
-![All palettes](man/figures/nudibranch_palettes_final.png)
+![All palettes](man/figures/nudibranch_palettes.png)
 
 📷 [View full palette gallery](GALLERY.md)
