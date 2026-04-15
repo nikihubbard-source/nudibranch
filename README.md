@@ -17,7 +17,7 @@ nudibranch_palette()
 # Get a palette
 nudibranch_palette("hypselodoris")
 
-# Use with ggplot2
+# Use with 'ggplot2'
 ggplot(data, aes(x, y, colour = group)) +
   scale_colour_nudibranch("hypselodoris")
 
